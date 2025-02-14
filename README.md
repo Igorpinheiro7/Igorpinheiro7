@@ -1,4 +1,4 @@
-## Olá eu sou Igor Pinheiro, Data Scientist apaixonado por dados e tecnologia, e estudante universitário de Análise e Desenvolvimento de Sistemas!
+## Olá, eu sou Igor Pinheiro, Data Scientist apaixonado por dados e tecnologia, e estudante universitário de Análise e Desenvolvimento de Sistemas!
 
 
 <div style="display: inline_block"><br>
