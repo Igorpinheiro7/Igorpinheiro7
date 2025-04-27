@@ -22,6 +22,14 @@
   
 </div>
 
+
+<div align="center">
+  <a href="https://github.com/Igorpinheiro7">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Igorpinheiro&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Igorpinheiro&layout=compact&langs_count=7&theme=dracula"/>
+</div>
+
+
 ### GitHub Stats
 
 ![GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Igorpinheiro7&hide_title=true&show_icons=true&include_all_commits=false&count_private=true&line_height=25&hide=issues&bg_color=000000&title_color=008000&text_color=FFFFFF&border_radius=3&border_color=FFFFFF&icon_color=008000&theme=jolly)
