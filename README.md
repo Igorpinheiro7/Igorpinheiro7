@@ -12,7 +12,7 @@
   
 </div>
   
-  ##
+  ### Connect with me
   
 <div> 
   <a href="https://www.instagram.com/igorpiinheiroo?igsh=MW83cWNqMHV6cXl3eg==" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
@@ -23,6 +23,9 @@
 </div>
 
 
+
+
+
 <div align="center">
   <a href="https://github.com/Igorpinheiro7">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Igorpinheiro&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
@@ -30,18 +33,3 @@
 </div>
 
 
-### GitHub Stats
-
-![GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Igorpinheiro7&hide_title=true&show_icons=true&include_all_commits=false&count_private=true&line_height=25&hide=issues&bg_color=000000&title_color=008000&text_color=FFFFFF&border_radius=3&border_color=FFFFFF&icon_color=008000&theme=jolly)
-<!--[![Most Used Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Igorpinheiro7&line_height=10&card_width=290&layout=compact&hide_title=false&count_private=true&langs_count=5&show_icons=true&title_color=FF00F6&hide=html,css,scss&bg_color=008000&text_color=8B8B8B&border_radius=3&border_color=561760&count_private=true)](https://github.com/Igorpinheiro7/github-readme-stats)-->
-
-<details align="left">
-  <summary></summary> 
- 
-  - Badges by <a href="https://shields.io/">shields.io</a><br>
-  - GitHub Stats by <a href="https://github.com/anuraghazra/github-readme-stats">anuraghazra</a>
-  - Developer vector created by <a href="https://www.freepik.com/vectors/developer">storyset - www.freepik.com</a> (edited by author)
- 
-  <div align="right">Made with 💜 by <a href="https://github.com/Igorpinheiro7">EA</a>.</div>
-
-</details>
