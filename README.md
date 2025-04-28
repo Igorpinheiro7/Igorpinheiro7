@@ -38,3 +38,6 @@ Olá, me chamo Igor Pinheiro, tenho 26 anos e sou natural de Salvador-BA. Atualm
 
 
 </div>
+###
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Igorpinheiro7&bg_color=000000&color=15e5a6&line=07e9a5&point=0a855c&area=true&hide_border=true)](https://ashutosh00710.github.io/github-readme-activity-graph/)
