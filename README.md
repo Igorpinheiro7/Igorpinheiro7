@@ -4,6 +4,7 @@
 
 Me chamo Igor Pinheiro, tenho 26 anos e sou natural de Salvador-BA. Atualmente sou embaixador da DIO e estou no último semestre do curso superior de Análise e Desenvolvimento de Sistemas pela Unijorge. Sou apaixonado por dados e tecnologia.
 
+###
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Igor-Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
