@@ -1,3 +1,11 @@
+# 👩🏻‍💻 Igor Pinheiro
+
+**`Cientista de Dados`**
+
+Me chamo Igor Pinheiro, tenho 26 anos e sou natural de Salvador-BA. Atualmente sou embaixador da DIO e estou no último semestre do curso superior de Análise e Desenvolvimento de Sistemas pela Unijorge. Sou apaixonado por dados e tecnologia.
+
+
+
 ## Olá, eu sou Igor Pinheiro, Data Scientist apaixonado por dados e tecnologia, e estudante universitário de Análise e Desenvolvimento de Sistemas!
 
 
