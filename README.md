@@ -26,8 +26,8 @@
 
 <div>
   <a href="https://github.com/Igorpinheiro7">
-  <img height="177em" src="https://github-readme-stats.vercel.app/api?username=Igorpinheiro&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="177em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Igorpinheiro&layout=compact&langs_count=7&theme=dark"/>
+  <img height="177em" src="https://github-readme-stats.vercel.app/api?username=Igorpinheiro&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
+  <img height="177em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Igorpinheiro&layout=compact&langs_count=7&theme=onedark"/>
 </div>
 
 
