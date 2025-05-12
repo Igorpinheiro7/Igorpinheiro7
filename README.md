@@ -24,6 +24,7 @@ para aprender tecnologia da América Latina, e estou no último semestre do curs
   
   
   <img align="center" alt="Igor-Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Mi-Pandas" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original-wordmark.svg">
   <img align="center" alt="Igor-Jupyter" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg">
   <img align="center" alt="Igor-Numpy" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original-wordmark.svg">
   <img align="center" alt="Igor-Js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -40,6 +41,5 @@ para aprender tecnologia da América Latina, e estou no último semestre do curs
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Igorpinheiro7&layout=compact&langs_count=7&theme=merko"/>
 </div>
 
-###
 
 ![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Igorpinheiro7&theme=merko&hide_border=true)
