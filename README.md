@@ -44,4 +44,4 @@ para aprender tecnologia da América Latina, e estou no último semestre do curs
 
 ###
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Igorpinheiro7&theme=merko&hide_border=true)
+![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Igorpinheiro7&theme=merko&hide_border=true)
