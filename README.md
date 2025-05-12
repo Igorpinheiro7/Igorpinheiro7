@@ -39,9 +39,9 @@ para aprender tecnologia da América Latina, e estou no último semestre do curs
   
  <a href="https://github.com/Igorpinheiro7">
   
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Igorpinheiro7&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
+   <img height="177em" src="https://github-readme-stats.vercel.app/api?username=Igorpinheiro7&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
   
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Igorpinheiro7&layout=compact&langs_count=7&theme=merko"/>
+   <img height="177em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Igorpinheiro7&layout=compact&langs_count=7&theme=merko"/>
 
   </div>
   
