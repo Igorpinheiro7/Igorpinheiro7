@@ -1,4 +1,4 @@
-# 🧑🏽‍💻 Igor PinheiroA
+# 🧑🏽‍💻 Igor Pinheiro
 
 **`Cientista de Dados`**
 
