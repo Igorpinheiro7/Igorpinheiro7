@@ -1,5 +1,3 @@
-<img src="https://media.giphy.com/media/Yg8Ue1HX6cRjVYcKhw/giphy.gif" width="100%" alt="Banner Data Science" />
-
 # 🧑🏽‍💻 Igor Pinheiro
 
 **Cientista de Dados | Embaixador DIO | Entusiasta em Inteligência Artificial**
