@@ -1,9 +1,13 @@
 # 🧑🏽‍💻 Igor Pinheiro
 
-**`Cientista de Dados`**
+**`Cientista de Dados | Embaixador DIO`**
 
-Olá, eu me chamo Igor Pinheiro, tenho 26 anos e sou natural de Salvador-BA. Atualmente sou embaixador da [DIO](https://www.dio.me/sign-up?ref=DEF4DA9FBEE943058AE1A80F28B6BB9C) a maior plataforma de educação impulsionada por IA
-para aprender tecnologia da América Latina, e estou no último semestre do curso superior de Análise e Desenvolvimento de Sistemas pela Unijorge. Sou apaixonado por dados e tecnologia.
+Olá! Me chamo **Igor Pinheiro**, tenho 26 anos e sou natural de Salvador - BA.  
+Atualmente sou **Embaixador na [DIO](https://www.dio.me/sign-up?ref=DEF4DA9FBEE943058AE1A80F28B6BB9C)** — a maior plataforma de educação em tecnologia impulsionada por IA da América Latina — e estou no último semestre de **Análise e Desenvolvimento de Sistemas** pela Unijorge.
+
+Sou apaixonado por dados, tecnologia e por transformar informação em conhecimento. Estou sempre aprendendo, criando projetos e compartilhando o que descubro com a comunidade tech.
+
+---
 
  ### 🤳🏽Conecte-se Comigo
   
