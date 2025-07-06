@@ -57,7 +57,7 @@ Tenho paixão por **dados, tecnologia e educação**, e busco diariamente transf
 
 ---
 
-## ⚙️ Atividades Recente
+## ⚙️ Atividades Recentes
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Igorpinheiro7&theme=merko&hide_border=true" />
