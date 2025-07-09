@@ -1,6 +1,6 @@
 # 🧑🏽‍💻 Igor Pinheiro
 
-**Cientista de Dados | Embaixador DIO | Entusiasta em Inteligência Artificial**
+**Entusiasta em Data Science | Embaixador Universitário da DIO | Entusiasta em Inteligência Artificial**
 
 ---
 
