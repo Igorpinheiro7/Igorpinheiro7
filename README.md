@@ -4,7 +4,7 @@
 
 ---
 
-🎯 **Sobre mim**
+🎯 **Sobre mi**
 
 Olá, eu me chamo **Igor Pinheiro**, tenho 26 anos e sou natural de Salvador - BA.  
 Atualmente sou **Embaixador Universitário na [DIO](https://www.dio.me/sign-up?ref=DEF4DA9FBEE943058AE1A80F28B6BB9C)**, a maior plataforma de educação em tecnologia impulsionada por IA da América Latina, e estou no último semestre do curso de **Análise e Desenvolvimento de Sistemas** pela Unijorge.
