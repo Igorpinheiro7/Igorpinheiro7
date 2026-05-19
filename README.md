@@ -29,10 +29,12 @@ Tenho paixão por **dados, tecnologia e educação**, e busco diariamente transf
 
 ## 📂 Principais Projetos
 
+- 📉 [**Previsão de Diagnóstico**](https://github.com/Igorpinheiro7/Breast-Cancer-Diagnosis-Prediction): Previsão de Diagnóstico de Câncer.
+- 📊 [**Imigração Canadá**](https://github.com/Igorpinheiro7/Imigrantes_Canada_Projeto): Análise e visualização de dados migratórios.
 - 🔍 [**Análise de dados da Netflix**](https://github.com/Igorpinheiro7/Netflix_Projeto): Análise das Avaliações dos Filmes.
 - 📈 [**Previsão de Vendas com Machine Learning**](https://github.com/Igorpinheiro7/Modelo_de_regressao_preditiva): Projeto de regressão para previsão de vendas usando Azure Machine Learning.
 
-- 📊 [**Imigração Canadá**](https://github.com/Igorpinheiro7/Imigrantes_Canada_Projeto): Análise e visualização de dados migratórios.
+
 
 ---
 
