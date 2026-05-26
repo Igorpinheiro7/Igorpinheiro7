@@ -7,7 +7,7 @@
 🎯 **Sobre mim**
 
 Olá, eu me chamo **Igor Pinheiro**, tenho 27 anos e sou natural de Salvador - BA.  
-Atualmente sou **Embaixador Universitário na [DIO](https://www.dio.me/sign-up?ref=DEF4DA9FBEE943058AE1A80F28B6BB9C)**, a maior plataforma de educação em tecnologia impulsionada por IA da América Latina, sou formado em **Análise e Desenvolvimento de Sistemas** pela Unijorge, e estou Pós-graduando em **Data Science** pela [UNICAMP](https://www.unicamp.br/)**.
+Atualmente sou **Embaixador Universitário na [DIO](https://www.dio.me/sign-up?ref=DEF4DA9FBEE943058AE1A80F28B6BB9C)**, a maior plataforma de educação em tecnologia impulsionada por IA da América Latina, sou formado em **Análise e Desenvolvimento de Sistemas** pela Unijorge, e estou Pós-graduando em **Data Science** pela [UNICAMP](https://www.unicamp.br/)**
 
 Tenho paixão por **dados, tecnologia e educação**, e busco diariamente transformar dados em conhecimento aplicável e impactante. Acredito no poder da comunidade tech e estou sempre envolvido em projetos, mentorias e iniciativas de capacitação profissional.
 
