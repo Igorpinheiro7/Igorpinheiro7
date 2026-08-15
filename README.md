@@ -40,10 +40,10 @@ Tenho paixão por **dados, tecnologia e educação**, e busco diariamente transf
 
 ## 📈 Estatísticas GitHub
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Igorpinheiro7&show_icons=true&include_all_commits=true&count_private=true&theme=merko" height="150" alt="Estatísticas do GitHub" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Igorpinheiro7&layout=compact&langs_count=5&theme=merko" height="150" alt="Linguagens mais usadas" />
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Igorpinheiro7&show_icons=true&include_all_commits=true&count_private=true&theme=merko" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IgorPinheiro7&layout=compact&langs_count=5&theme=merko" height="150" />
+</div>
 
 ---
 
